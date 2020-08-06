@@ -1,2 +1,2 @@
 # StateR
-Global Co-located State Container
+Graphical User Interface for Composing FaaS Workflows
